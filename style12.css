@@ -1,0 +1,31 @@
+/* самалек */	
+table {
+	color: green;
+	border-radius: 12px;
+	border: 2px solid red;
+}
+li[width="500"] {
+	color:orange ;
+}
+.privet {
+	color: green;
+} 
+#idiot {
+	font-weight: bold;
+}
+html tr {
+	color: yellow;
+}
+.list > li {
+	color: blue;
+}
+
+.font-size-md {
+	font-size: 18px;
+}
+.font-size-md.color-red {
+	color: red;
+}
+.font-size-md.color-gray {
+	color: gray;
+} 
